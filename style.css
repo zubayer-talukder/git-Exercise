@@ -1,0 +1,10 @@
+h2{
+    color:yellowgreen;
+    text-align: center;
+}
+div{
+    margin: 20px;
+    padding:20px 10px 20px 10px;
+    box-shadow: khaki;
+    background-color: red;
+}
